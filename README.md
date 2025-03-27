@@ -1,5 +1,5 @@
 # 🌟 MERN Stack Project
-![MERN Stack](https://cdn.worldvectorlogo.com/logos/mern.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" width="250" alt="MERN Stack Logo">
 ## 🚀 Overview
 This is a **MERN Stack** (MongoDB, Express.js, React, Node.js) web application that provides a full-stack solution for modern web development. The project is designed to be scalable, maintainable, and optimized for performance.
 
