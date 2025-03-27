@@ -1,7 +1,6 @@
 # 🌟 MERN Stack Project
 
-![MERN Stack](https://miro.medium.com/max/1400/1*oT7KXcft3nNmPqzFC1N5gg.png)
-
+![MERN Stack](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
 ## 🚀 Overview
 This is a **MERN Stack** (MongoDB, Express.js, React, Node.js) web application that provides a full-stack solution for modern web development. The project is designed to be scalable, maintainable, and optimized for performance.
 
